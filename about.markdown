@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, my name is saullo, I’m a 20 year old software developer 🤓! I’m from Brazil and my history with programming started when I was just 10 years old and I got a computer with Intel Core duo, 512MB of RAM, 80GB of HD and 64MB dedicated for integrated video. At that time I started typing/copying codes in PHP to create a blog (but gave up and used Google’s blogger), after a few years I started studying programming in depth using the C language. When I turned 18 years old, I entered the Pontifical Catholic University of Minas Gerais, majoring in Software Engineering.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Contact me
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Here is my Twitter [@SaulloSilva_][twitter] and my Github [@saullo][github].
 
+I’m also available via e-mail, [saullo.silva303@gmail.com](mailto:saullo.silva303@gmail.com).
 
-[jekyll-organization]: https://github.com/jekyll
+[twitter]: https://twitter.com/SaulloSilva_
+[github]: https://github.com/saullo
